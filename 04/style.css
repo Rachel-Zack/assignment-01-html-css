@@ -12,8 +12,8 @@ main {
     grid-template-areas: "nav nav nav"
                          "side art aside"
                          "side art aside";
-    /* grid-template-columns:4fr; */
-    /* grid-template-rows:4fr;  */
+    /* grid-template-columns:4fr,4fr; */
+    /* grid-template-rows:;  */
     /* grid-gap: ; */
 }
 
@@ -29,6 +29,7 @@ main>* {
 aside {
     background-color: rgba(143, 81, 188, 0.3);
     grid-area:
+    display: flex;
 }
 
 
