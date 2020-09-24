@@ -18,6 +18,7 @@ main {
 header {
     text-align: center;
     background-color: lightblue;
+    padding-top: 5px;
 }
 
 article {
