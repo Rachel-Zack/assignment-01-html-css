@@ -39,7 +39,7 @@ section.sidebar {
     display: flex; 
     flex-direction: column;
     justify-content: center;            /*these last two are optional*/
-    align-items: center;
+    align-items:
 }
 
 section.sidebar img {
