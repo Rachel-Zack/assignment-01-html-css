@@ -10,6 +10,14 @@ header {
     color: whitesmoke;
     text-align: center;
 }
+
+img {
+    float: right;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 2em;
+}
+
 section.main {
     margin-left: 2em;
     margin-right: 2em;
@@ -18,7 +26,4 @@ section.sources {
     margin-left: 2em;
     margin-right: 2em;
     border: 2em;
-}
-img {
-    float: left;
 }
